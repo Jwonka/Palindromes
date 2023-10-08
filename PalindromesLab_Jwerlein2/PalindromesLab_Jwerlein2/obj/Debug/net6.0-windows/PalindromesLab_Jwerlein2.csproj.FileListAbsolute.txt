@@ -1,0 +1,16 @@
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\bin\Debug\net6.0-windows\PalindromesLab_Jwerlein2.exe
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\bin\Debug\net6.0-windows\PalindromesLab_Jwerlein2.deps.json
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\bin\Debug\net6.0-windows\PalindromesLab_Jwerlein2.runtimeconfig.json
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\bin\Debug\net6.0-windows\PalindromesLab_Jwerlein2.dll
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\bin\Debug\net6.0-windows\PalindromesLab_Jwerlein2.pdb
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\PalindromesLab_Jwerlein2.PalindromeForm.resources
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\PalindromesLab_Jwerlein2.csproj.GenerateResource.cache
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\PalindromesLab_Jwerlein2.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\PalindromesLab_Jwerlein2.AssemblyInfoInputs.cache
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\PalindromesLab_Jwerlein2.AssemblyInfo.cs
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\PalindromesLab_Jwerlein2.csproj.CoreCompileInputs.cache
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\PalindromesLab_Jwerlein2.dll
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\refint\PalindromesLab_Jwerlein2.dll
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\PalindromesLab_Jwerlein2.pdb
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\PalindromesLab_Jwerlein2.genruntimeconfig.cache
+C:\.NET\PalindromesLab_Jwerlein2\PalindromesLab_Jwerlein2\obj\Debug\net6.0-windows\ref\PalindromesLab_Jwerlein2.dll

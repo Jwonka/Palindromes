@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PalindromesLab_Jwerlein2/1.0.0": {
+        "runtime": {
+          "PalindromesLab_Jwerlein2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PalindromesLab_Jwerlein2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
